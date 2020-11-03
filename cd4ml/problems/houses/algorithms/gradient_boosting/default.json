@@ -1,4 +1,4 @@
 {
-    "n_estimators": 10,
-    "max_depth": 2
+    "n_estimators": 80,
+    "max_depth": 12
 }
